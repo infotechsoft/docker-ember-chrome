@@ -1,4 +1,4 @@
-FROM infotechsoft/ember-cli:3.12.1
+FROM infotechsoft/ember-cli:3.16.1
 
 LABEL name="ember-cli-chrome ${EMBER_VERSION}" \
       maintainer="Luis Averhoff <luis@infotechsoft.com>" \

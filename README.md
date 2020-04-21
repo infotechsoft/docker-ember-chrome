@@ -1,6 +1,6 @@
 # docker-ember
-<a href="https://emberjs.com/"><img src="https://emberjs.com/images/brand/ember_Tomster-Lockup-b368131eb80ecbcbaf2d23fd4cb27295.png" alt="EmberJS" height="48px"/></a> docker image based on <a href="https://nodejs.org"><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" alt="NodeJS" height="48px"/></a>
-Minimal installation of EmberJS on NodeJS LTS Alpine.
+<a href="https://emberjs.com/"><img src="https://emberjs.com/images/brand/ember_Tomster-Lockup.png" alt="EmberJS" height="48px"/></a> docker image based on <a href="https://nodejs.org"><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS" height="48px"/></a>
+Minimal installation of EmberJS 3.16 on NodeJS LTS 12 Alpine
 
 ## Base Image
  * [infotechsoft/ember-cli](https://github.com/infotechsoft/docker-ember) built on node:alpine
